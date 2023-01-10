@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Users tags test","Provide a 405 status code when incorrect HTTP method is used to access resource","FAILURE","2023-01-10T22:55:21.847Z[Europe/London]","0.0","6.66"
+"Users tags test","This test will verify if a status code of 200 is returned for GET request","FAILURE","2023-01-10T22:55:28.580Z[Europe/London]","0.0","0.84"
+"Users tags test","This test will provide an error code of 400 when user tries to access an invalid resource","FAILURE","2023-01-10T22:55:29.423Z[Europe/London]","0.0","0.57"
